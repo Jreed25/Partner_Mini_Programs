@@ -5,5 +5,7 @@
 
 # This was a partner project in an assembly language class I had 
 # where me and my partner each did 2 of the programs.
+# I did the coin flipper and string searcher.
+# And he did the age calculator and dice roller.
 # Unfortunately, he was the one submitting and I never got the full program, 
 # but I do have the parts I did and the parts we worked on together.
